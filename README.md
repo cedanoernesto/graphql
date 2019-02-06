@@ -1,2 +1,0 @@
-# graphql
-Created with CodeSandbox

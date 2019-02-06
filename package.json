@@ -1,0 +1,22 @@
+{
+  "name": "repost-ts-graphql",
+  "version": "1.0.0",
+  "description": "React, TypeScript, parcel",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/react": "16.8.1",
+    "@types/react-dom": "16.0.11",
+    "antd": "3.13.1",
+    "babel-plugin-import": "1.11.0",
+    "react": "16.7.0",
+    "react-dom": "16.7.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.9.7"
+  },
+  "keywords": []
+}
